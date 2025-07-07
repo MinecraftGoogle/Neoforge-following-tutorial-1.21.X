@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcgtutorialmod:item/tin_raw"
+  }
+}
